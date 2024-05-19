@@ -32,16 +32,19 @@ This section provides step-by-step instructions to deploy the chatbot using AWS 
    # Run the application
    python app.py
 
-### Application Structure
-/ (root directory)
-|- /static
-|  |- /img
-|     |- 1.gif
-|     |- 2.gif
-|     |- 3.gif
-|- /templates
-|  |- index.html
-|- app.py
+## Application Structure
+Below is the directory structure of the "Bad Bad Anya" chatbot application, providing a clear view of all components involved.
+
+```plaintext
+/root_directory
+|-- /static
+|   |-- /img
+|       |-- 1.gif
+|       |-- 2.gif
+|       |-- 3.gif
+|-- /templates
+|   |-- index.html
+|-- app.py
 
 ###Enhancements
 Future enhancements can include more interactive features, improved AI responses, and better security for iframe communication.
