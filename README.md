@@ -35,6 +35,11 @@ This section provides step-by-step instructions to deploy the chatbot using AWS 
 ## Application Structure
 Below is the directory structure of the "Bad Bad Anya" chatbot application, providing a clear view of all components involved.
 
+## Enhancements
+Future enhancements can include more interactive features, improved AI responses, and better security for iframe communication.
+
+For detailed documentation on AWS Bedrock, visit AWS Documentation.
+
 ```plaintext
 /root_directory
 |-- /static
@@ -46,7 +51,4 @@ Below is the directory structure of the "Bad Bad Anya" chatbot application, prov
 |   |-- index.html
 |-- app.py
 
-###Enhancements
-Future enhancements can include more interactive features, improved AI responses, and better security for iframe communication.
 
-For detailed documentation on AWS Bedrock, visit AWS Documentation.
